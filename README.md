@@ -1,4 +1,4 @@
-# ChatGPT-Meai
+# ChatGPT-meai
 
 Hi ffolks! It's ChatGPT AI Application That Will Help you in code environment .It is make clear you error ,it can write a program and many more.
 \.
